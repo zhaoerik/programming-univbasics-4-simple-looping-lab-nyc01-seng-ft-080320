@@ -14,11 +14,11 @@ end
 #     count += 1
 #   end
 # end
-# 
+#
 # def output_array(array)
 #   puts array
 # end
-# 
+#
 # def return_string_array(array)
 #   count = 0
 #   while count < array.length do
