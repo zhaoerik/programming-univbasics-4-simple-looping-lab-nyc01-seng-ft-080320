@@ -6,7 +6,7 @@
 #     count += 1
 #   end
 # end
-# 
+#
 # def loop_messages_n_times(string, limit)
 #   count = 0
 #   while count < limit do
@@ -14,7 +14,7 @@
 #     count += 1
 #   end
 # end
-# 
+#
 # def output_array(array)
 #   puts array
 # end
